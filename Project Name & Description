@@ -1,0 +1,6 @@
+Fruits Classification using CNN (Deep Learning)Fruits Classification using CNN (Deep Learning)
+
+Used the following Fruits 360 dataset from Kaggle:
+https://www.kaggle.com/moltean/fruits
+
+Trained the CNN for 5605 images belonging to 21 different classes.
