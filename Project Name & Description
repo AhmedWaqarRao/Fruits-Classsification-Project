@@ -4,3 +4,17 @@ Used the following Fruits 360 dataset from Kaggle:
 https://www.kaggle.com/moltean/fruits
 
 Trained the CNN for 5605 images belonging to 21 different classes.
+
+
+
+
+
+
+
+FACE MASK DETECTION USING Yolov3
+Used the following dataset from Kaggle
+https://lnkd.in/grQ2n9sZ
+Annotated around 600 images using labelImg tool in YOLO format.
+Trained for 2 classes masked and not_masked, using max_batches=4000 and batch=16.
+Moreover, set classes=2 in 3 YOLO layers and filters=21 in convolution layers preceding it. (Changes in Darknet cfg file).
+The complete Code can be found in the following colab notebook
